@@ -18,14 +18,14 @@ Dict-8 atau Dict(eight)/Dictate adalah aplikasi untuk membantu dapat menggunakan
 * Buka Android Studio dan dari file pilih open disini perlu dimasukan path dari file yang sudah diunduh jika menggunkaan windows maka bukalah file yang sudah diunduh dan abaikan   file MacOS dan select folder SpeechRecognition
 * setelah file sudah terbuka maka jalankan lah dengan memencet tombol RUN 
 
-## Authors
+## Pembuat
 
 Contributors names and contact info
 
 Grup 4(Vannesa chriszella ,Calvin Wong, Daniel chewnaldo, Zuqi Laksamana, Kevin Edward)
 
 
-## Acknowledgments
+## Refrensi
 
 Inspiration, code snippets, etc.
 * [ Speech to Text Recognizer | Kotlin](https://www.youtube.com/watch?v=7o-CeZK0kf4)
